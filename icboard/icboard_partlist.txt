@@ -1,0 +1,28 @@
+Partlist
+
+Assembly variant: 
+
+Part     Value          Device        Package   Sheet
+
+C1       0.1u           C-EUC0603     C0603     1
+C2       0.1u           C-EUC0603     C0603     1
+C3       10u            C-EUC0603     C0603     1
+C4       0.1u           C-EUC0603     C0603     1
+C5       0.1u           C-EUC0603     C0603     1
+C6       10u            C-EUC0603     C0603     1
+C7       10u            C-EUC0603     C0603     1
+C8       4.7u           C-EUC0603     C0603     1
+C9       4.7u           C-EUC0603     C0603     1
+C10      0.1u           C-EUC0603     C0603     1
+C11      0.47u          C-EUC0603     C0603     1
+IC1      MAX1499        MAX1499       TQFP32-08 1
+IC2      REF3220        REF3220       REF3220   1
+JP1                     PINHD-1X8     1X08      1
+JP2                     PINHD-1X6     1X06      1
+L1                      L-EUL1812     L1812     1
+R1       62k            R-EU_R0603    R0603     1
+R2       200k           R-EU_R0603    R0603     1
+R3       24k            R-EU_R0603    R0603     1
+X1       MOLEX_CON2_2P  MOLEX_CON2_2P CON2_2P   1
+X3                      MPT3          3POL254   1
+X4                      MOLEX_CON2_6P CON2_6P   1
