@@ -1,0 +1,29 @@
+Partlist
+
+Assembly variant: 
+
+Part     Value          Device        Package      Library         Sheet
+
+C1       0.1u oder >    C-EUC0603     C0603        rcl             1
+C2       0.1u oder >    C-EUC0603     C0603        rcl             1
+C3       10u            C-EUC0603     C0603        rcl             1
+C4                      C-EUC0603     C0603        rcl             1
+C5                      C-EUC0603     C0603        rcl             1
+C6                      C-EUC0603     C0603        rcl             1
+C7                      C-EUC0603     C0603        rcl             1
+C8                      C-EUC0603     C0603        rcl             1
+C9                      C-EUC0603     C0603        rcl             1
+C10      0.1u           C-EUC0603     C0603        rcl             1
+IC1      MAX1499        MAX1499       TQFP32-08    LEDVoltmeter    1
+JP1                     PINHD-1X8     1X08         pinhead         1
+JP2                     PINHD-1X6     1X06         pinhead         1
+L1                      L-EUL1812     L1812        rcl             1
+PAD1                    SMD2          SMD1,27-2,54 wirepad         1
+PAD2                    SMD2          SMD1,27-2,54 wirepad         1
+R1                      R-EU_R0603    R0603        rcl             1
+R2                      R-EU_R0603    R0603        rcl             1
+R3       25k            R-EU_R0603    R0603        rcl             1
+X1       MOLEX_CON2_2P  MOLEX_CON2_2P CON2_2P      Lib_Eis_HSW     1
+X2       MOLEX_CON2_2P  MOLEX_CON2_2P CON2_2P      Lib_Eis_HSW     1
+X3                      MPT3          3POL254      con-phoenix-254 1
+X4                      MOLEX_CON2_6P CON2_6P      Lib_Eis_HSW     1

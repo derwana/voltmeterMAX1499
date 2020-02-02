@@ -1,0 +1,21 @@
+Partlist
+
+Assembly variant: 
+
+Part       Value          Package  Library    Position (mm)         Orientation
+
+DIS1_MINUS HD-H103        HDSP-M   display-hp (11.26 20.32)         R0
+DIS2_1     HD-H103        HDSP-M   display-hp (23.96 20.32)         R0
+DIS3_2     HD-H103        HDSP-M   display-hp (36.66 20.32)         R0
+DIS4_3     HD-H103        HDSP-M   display-hp (49.36 20.32)         R0
+DIS5_4     HD-H103        HDSP-M   display-hp (62.06 20.32)         R0
+DIS6_5     HD-H103        HDSP-M   display-hp (74.76 20.32)         R0
+JP1                       1X08     pinhead    (23.96 31.75)         R180
+JP2                       1X06     pinhead    (26.5 6.35)           R0
+R1                        R0603    rcl        (79.84 19.78)         MR270
+R2                        R0603    rcl        (79.84 15.9)          MR270
+R3                        R0603    rcl        (67.14 16.8)          MR270
+R4                        R0603    rcl        (54.44 16.8)          MR270
+R5                        R0603    rcl        (29.04 16.8)          MR270
+R6                        R0603    rcl        (41.74 16.8)          MR270
+R7                        R0603    rcl        (74.76 8.89)          MR0
