@@ -1,0 +1,23 @@
+Partlist
+
+Exported from mini_digitboard.sch at 2/2/20 9:24 PM
+
+EAGLE Version 9.5.2 Copyright (c) 1988-2019 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value          Device     Package  Library      Sheet
+
+DIG1     SC39-11        SC39-11    SC39-11  LEDVoltmeter 1
+DIG2     SC39-11        SC39-11    SC39-11  LEDVoltmeter 1
+DIG3     SC39-11        SC39-11    SC39-11  LEDVoltmeter 1
+DIG4     SC39-11        SC39-11    SC39-11  LEDVoltmeter 1
+DIG5     SC39-11        SC39-11    SC39-11  LEDVoltmeter 1
+JP1                     PINHD-1X8  1X08     pinhead      1
+JP2                     PINHD-1X6  1X06     pinhead      1
+R1                      R-EU_R0603 R0603    rcl          1
+R2                      R-EU_R0603 R0603    rcl          1
+R3                      R-EU_R0603 R0603    rcl          1
+R4                      R-EU_R0603 R0603    rcl          1
+R5                      R-EU_R0603 R0603    rcl          1
+R6                      R-EU_R0603 R0603    rcl          1
