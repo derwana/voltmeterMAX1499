@@ -1,0 +1,23 @@
+Partlist
+
+Exported from digitboard.sch at 2/2/20 9:23 PM
+
+EAGLE Version 9.5.2 Copyright (c) 1988-2019 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value          Device     Package  Library    Sheet
+
+DIS1     HD-H103        HD-H103    HDSP-M   display-hp 1
+DIS2     HD-H103        HD-H103    HDSP-M   display-hp 1
+DIS3     HD-H103        HD-H103    HDSP-M   display-hp 1
+DIS4     HD-H103        HD-H103    HDSP-M   display-hp 1
+DIS5     HD-H103        HD-H103    HDSP-M   display-hp 1
+JP1                     PINHD-1X8  1X08     pinhead    1
+JP2                     PINHD-1X6  1X06     pinhead    1
+R1                      R-EU_R0603 R0603    rcl        1
+R3                      R-EU_R0603 R0603    rcl        1
+R4                      R-EU_R0603 R0603    rcl        1
+R5                      R-EU_R0603 R0603    rcl        1
+R6                      R-EU_R0603 R0603    rcl        1
+R7                      R-EU_R0603 R0603    rcl        1
