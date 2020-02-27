@@ -41,7 +41,7 @@ estimated 45,00 € (per unit)
 * 7-Segments 1.00€-2.00€ (per segment-unit)
 
 
-## 5 version 2 pictures
+## 5 pictures of v2
 Connections:
 * potentiometer for dimming (black/pink)
 * Vcc (black/red)
